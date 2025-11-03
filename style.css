@@ -6,3 +6,6 @@ p {
     color: gray;
     font-size: 16px;
 }   
+p {
+    margin-top: 10px;
+}
